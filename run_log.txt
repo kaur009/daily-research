@@ -4,3 +4,4 @@
 [2026-01-19 08:25:04] Processed: Language-Agnostic Visual Embeddings for Cross-Script Handwriting Retrieval
 [2026-01-21 08:24:00] Processed: TrojanPraise: Jailbreak LLMs via Benign Fine-Tuning
 [2026-01-22 08:23:39] Processed: DeepFedNAS: A Unified Framework for Principled, Hardware-Aware, and Predictor-Free Federated Neural Architecture Search
+[2026-01-22 08:28:50] Processed: Reflecting in the Reflection: Integrating a Socratic Questioning Framework into Automated AI-Based Question Generation
