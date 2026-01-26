@@ -11,3 +11,4 @@
 [2026-01-24 08:26:22] Processed: IntelliSA: An Intelligent Static Analyzer for IaC Security Smell Detection Using Symbolic Rules and Neural Inference
 [2026-01-24 08:28:33] Processed: PUMA: Perception-driven Unified Foothold Prior for Mobility Augmented Quadruped Parkour
 [2026-01-26 08:24:33] Processed: AlertGuardian: Intelligent Alert Life-Cycle Management for Large-scale Cloud Systems
+[2026-01-26 08:27:34] Processed: A Step to Decouple Optimization in 3DGS
