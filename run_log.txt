@@ -10,3 +10,4 @@
 [2026-01-24 08:19:39] Processed: Rethinking Video Generation Model for the Embodied World
 [2026-01-24 08:26:22] Processed: IntelliSA: An Intelligent Static Analyzer for IaC Security Smell Detection Using Symbolic Rules and Neural Inference
 [2026-01-24 08:28:33] Processed: PUMA: Perception-driven Unified Foothold Prior for Mobility Augmented Quadruped Parkour
+[2026-01-26 08:24:33] Processed: AlertGuardian: Intelligent Alert Life-Cycle Management for Large-scale Cloud Systems
