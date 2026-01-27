@@ -15,3 +15,4 @@
 [2026-01-26 08:34:18] Processed: Holmes: An Evidence-Grounded LLM Agent for Auditable DDoS Investigation in Cloud Networks
 [2026-01-27 08:25:17] Processed: Dep-Search: Learning Dependency-Aware Reasoning Traces with Persistent Memory
 [2026-01-27 08:29:31] Processed: REMAC: Reference-Based Martian Asymmetrical Image Compression
+[2026-01-27 08:31:39] Processed: Physics-Informed Uncertainty Enables Reliable AI-driven Design
