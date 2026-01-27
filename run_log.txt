@@ -13,3 +13,4 @@
 [2026-01-26 08:24:33] Processed: AlertGuardian: Intelligent Alert Life-Cycle Management for Large-scale Cloud Systems
 [2026-01-26 08:27:34] Processed: A Step to Decouple Optimization in 3DGS
 [2026-01-26 08:34:18] Processed: Holmes: An Evidence-Grounded LLM Agent for Auditable DDoS Investigation in Cloud Networks
+[2026-01-27 08:25:17] Processed: Dep-Search: Learning Dependency-Aware Reasoning Traces with Persistent Memory
