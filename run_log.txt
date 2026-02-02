@@ -21,3 +21,4 @@
 [2026-02-01 08:25:11] Processed: Urban Neural Surface Reconstruction from Constrained Sparse Aerial Imagery with 3D SAR Fusion
 [2026-02-02 08:35:52] Processed: MeshGraphNet-Transformer: Scalable Mesh-based Learned Simulation for Solid Mechanics
 [2026-02-02 08:40:28] Processed: Secure Group Key Agreement on Cyber-Physical System Buses
+[2026-02-02 08:43:19] Processed: From Monolith to Microservices: A Comparative Evaluation of Decomposition Frameworks
