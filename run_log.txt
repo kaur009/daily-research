@@ -23,3 +23,4 @@
 [2026-02-02 08:40:28] Processed: Secure Group Key Agreement on Cyber-Physical System Buses
 [2026-02-02 08:43:19] Processed: From Monolith to Microservices: A Comparative Evaluation of Decomposition Frameworks
 [2026-02-02 08:50:00] Processed: VocBulwark: Towards Practical Generative Speech Watermarking via Additional-Parameter Injection
+[2026-02-04 08:33:22] Processed: On the Feasibility of Hybrid Homomorphic Encryption for Intelligent Transportation Systems
