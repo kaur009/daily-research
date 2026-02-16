@@ -27,3 +27,4 @@
 [2026-02-04 08:37:14] Processed: SEW: Strengthening Robustness of Black-box DNN Watermarking via Specificity Enhancement
 [2026-02-08 08:25:51] Processed: Does Programming Language Matter? An Empirical Study of Fuzzing Bug Detection
 [2026-02-12 08:39:02] Processed: PiTPM: Partially Interactive Signatures for Multi-Device TPM Operations
+[2026-02-16 08:39:15] Processed: Discovering Semantic Latent Structures in Psychological Scales: A Response-Free Pathway to Efficient Simplification
