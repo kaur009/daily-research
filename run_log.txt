@@ -30,3 +30,4 @@
 [2026-02-16 08:39:15] Processed: Discovering Semantic Latent Structures in Psychological Scales: A Response-Free Pathway to Efficient Simplification
 [2026-02-16 08:47:45] Processed: Transporting Task Vectors across Different Architectures without Training
 [2026-02-16 08:57:10] Processed: Future Mining: Learning for Safety and Security
+[2026-02-16 09:01:36] Processed: Secrecy and Verifiability: An Introduction to Electronic Voting
