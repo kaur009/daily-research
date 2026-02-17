@@ -32,3 +32,4 @@
 [2026-02-16 08:57:10] Processed: Future Mining: Learning for Safety and Security
 [2026-02-16 09:01:36] Processed: Secrecy and Verifiability: An Introduction to Electronic Voting
 [2026-02-17 08:37:09] Processed: A Survey of Code Review Benchmarks and Evaluation Practices in Pre-LLM and LLM Era
+[2026-02-17 08:47:03] Processed: Applying Public Health Systematic Approaches to Cybersecurity: The Economics of Collective Defense
