@@ -38,3 +38,4 @@
 [2026-02-22 08:24:05] Processed: Benchmarking the Effects of Object Pose Estimation and Reconstruction on Robotic Grasping Success
 [2026-02-22 08:31:16] Processed: The Anxiety of Influence: Bloom Filters in Transformer Attention Heads
 [2026-02-22 08:34:16] Processed: A Calculus of Overlays
+[2026-02-22 08:43:30] Processed: Evaluating Chain-of-Thought Reasoning through Reusability and Verifiability
