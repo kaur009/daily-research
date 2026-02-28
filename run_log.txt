@@ -42,3 +42,4 @@
 [2026-02-26 08:38:57] Processed: On the Variability of Source Code in Maven Package Rebuilds
 [2026-02-26 08:45:20] Processed: FlowCorrect: Efficient Interactive Correction of Generative Flow Policies for Robotic Manipulation
 [2026-02-26 08:51:46] Processed: Revisiting Text Ranking in Deep Research
+[2026-02-28 08:21:07] Processed: MoDora: Tree-Based Semi-Structured Document Analysis System
