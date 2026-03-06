@@ -47,3 +47,4 @@
 [2026-02-28 08:32:19] Processed: Regularized Online RLHF with Generalized Bilinear Preferences
 [2026-02-28 08:34:39] Processed: InCoM: Intent-Driven Perception and Structured Coordination for Whole-Body Mobile Manipulation
 [2026-03-03 08:33:12] Processed: GENAI WORKBENCH: AI-Assisted Analysis and Synthesis of Engineering Systems from Multimodal Engineering Data
+[2026-03-06 08:30:28] Processed: MI-DETR: A Strong Baseline for Moving Infrared Small Target Detection with Bio-Inspired Motion Integration
