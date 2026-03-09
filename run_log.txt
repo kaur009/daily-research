@@ -52,3 +52,4 @@
 [2026-03-09 08:42:37] Processed: Improved hopping control on slopes for small robots using spring mass modeling
 [2026-03-09 08:51:12] Processed: Cut to the Chase: Training-free Multimodal Summarization via Chain-of-Events
 [2026-03-09 08:55:32] Processed: Tutor Move Taxonomy: A Theory-Aligned Framework for Analyzing Instructional Moves in Tutoring
+[2026-03-09 09:02:31] Processed: Do Foundation Models Know Geometry? Probing Frozen Features for Continuous Physical Measurement
