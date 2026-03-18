@@ -57,3 +57,4 @@
 [2026-03-15 08:39:12] Processed: Chemical Reaction Networks Learn Better than Spiking Neural Networks
 [2026-03-16 08:49:27] Processed: Hunting CUDA Bugs at Scale with cuFuzz
 [2026-03-17 08:43:31] Processed: TriFusion-LLM: Prior-Guided Multimodal Fusion with LLM Arbitration for Fine-grained Code Clone Detection
+[2026-03-18 08:40:14] Processed: CritiSense: Critical Digital Literacy and Resilience Against Misinformation
