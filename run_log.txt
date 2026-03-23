@@ -59,3 +59,4 @@
 [2026-03-17 08:43:31] Processed: TriFusion-LLM: Prior-Guided Multimodal Fusion with LLM Arbitration for Fine-grained Code Clone Detection
 [2026-03-18 08:40:14] Processed: CritiSense: Critical Digital Literacy and Resilience Against Misinformation
 [2026-03-21 08:24:44] Processed: InCoder-32B: Code Foundation Model for Industrial Scenarios
+[2026-03-23 08:47:52] Processed: Unlabeled Multi-Robot Motion Planning with Improved Separation Trade-offs
