@@ -64,3 +64,4 @@
 [2026-03-23 09:04:02] Processed: From Masks to Pixels and Meaning: A New Taxonomy, Benchmark, and Metrics for VLM Image Tampering
 [2026-03-27 08:42:38] Processed: Fast-dVLA: Accelerating Discrete Diffusion VLA to Real-Time Performance
 [2026-03-27 08:51:43] Processed: Drive My Way: Preference Alignment of Vision-Language-Action Model for Personalized Driving
+[2026-03-27 08:58:16] Processed: PixelSmile: Toward Fine-Grained Facial Expression Editing
