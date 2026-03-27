@@ -66,3 +66,4 @@
 [2026-03-27 08:51:43] Processed: Drive My Way: Preference Alignment of Vision-Language-Action Model for Personalized Driving
 [2026-03-27 08:58:16] Processed: PixelSmile: Toward Fine-Grained Facial Expression Editing
 [2026-03-27 09:08:02] Processed: Interpretable PM2.5 Forecasting for Urban Air Quality: A Comparative Study of Operational Time-Series Models
+[2026-03-27 09:17:11] Processed: The Specification Gap: Coordination Failure Under Partial Knowledge in Code Agents
