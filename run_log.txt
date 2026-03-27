@@ -62,3 +62,4 @@
 [2026-03-23 08:47:52] Processed: Unlabeled Multi-Robot Motion Planning with Improved Separation Trade-offs
 [2026-03-23 08:56:15] Processed: ManiTwin: Scaling Data-Generation-Ready Digital Object Dataset to 100K
 [2026-03-23 09:04:02] Processed: From Masks to Pixels and Meaning: A New Taxonomy, Benchmark, and Metrics for VLM Image Tampering
+[2026-03-27 08:42:38] Processed: Fast-dVLA: Accelerating Discrete Diffusion VLA to Real-Time Performance
