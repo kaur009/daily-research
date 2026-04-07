@@ -70,3 +70,4 @@
 [2026-04-03 08:44:14] Processed: A ROS 2 Wrapper for Florence-2: Multi-Mode Local Vision-Language Inference for Robotic Systems
 [2026-04-05 08:35:58] Processed: ATBench: A Diverse and Realistic Trajectory Benchmark for Long-Horizon Agent Safety
 [2026-04-07 08:56:33] Processed: Evaluating Future Air Traffic Management Security
+[2026-04-07 08:59:17] Processed: PAFT: Preservation Aware Fine-Tuning for Minimal-Edit Program Repair
