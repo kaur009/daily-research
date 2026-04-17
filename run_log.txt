@@ -75,3 +75,4 @@
 [2026-04-07 09:11:34] Processed: Robots Need Some Education: On the complexity of learning in evolutionary robotics
 [2026-04-13 09:48:40] Processed: Trans-RAG: Query-Centric Vector Transformation for Secure Cross-Organizational Retrieval
 [2026-04-15 09:12:16] Processed: VideoFlexTok: Flexible-Length Coarse-to-Fine Video Tokenization
+[2026-04-17 09:09:56] Processed: Predicting Power-System Dynamic Trajectories with Foundation Models
