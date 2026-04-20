@@ -77,3 +77,4 @@
 [2026-04-15 09:12:16] Processed: VideoFlexTok: Flexible-Length Coarse-to-Fine Video Tokenization
 [2026-04-17 09:09:56] Processed: Predicting Power-System Dynamic Trajectories with Foundation Models
 [2026-04-19 08:44:36] Processed: StreamCacheVGGT: Streaming Visual Geometry Transformers with Robust Scoring and Hybrid Cache Compression
+[2026-04-20 09:52:43] Processed: Towards Intrinsic Interpretability of Large Language Models:A Survey of Design Principles and Architectures
