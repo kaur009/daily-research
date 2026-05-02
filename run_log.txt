@@ -81,3 +81,4 @@
 [2026-04-22 09:13:30] Processed: Integrating Anomaly Detection into Agentic AI for Proactive Risk Management in Human Activity
 [2026-04-26 08:52:47] Processed: A Stackelberg Model for Hybridization in Cryptography
 [2026-04-27 10:08:41] Processed: All Eyes on the Workflow: Automated and Efficient Event Discovery from Video Streams
+[2026-05-02 08:59:29] Processed: Security Attack and Defense Strategies for Autonomous Agent Frameworks: A Layered Review with OpenClaw as a Case Study
