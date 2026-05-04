@@ -85,3 +85,4 @@
 [2026-05-02 09:08:07] Processed: ScaleBox: Enabling High-Fidelity and Scalable Code Verification for Large Language Models
 [2026-05-02 09:18:19] Processed: The Satoshi Overhang: Why the Bear Case is Bounded
 [2026-05-04 10:07:48] Processed: SBN Explorer: An Empirical Study of Cryptographic Boolean Networks
+[2026-05-04 10:10:37] Processed: Faithful Extreme Image Rescaling with Learnable Reversible Transformation and Semantic Priors
