@@ -90,3 +90,4 @@
 [2026-05-06 10:11:11] Processed: Low Rank Tensor Completion via Adaptive ADMM
 [2026-05-09 09:12:15] Processed: PragLocker: Protecting Agent Intellectual Property in Untrusted Deployments via Non-Portable Prompts
 [2026-05-09 09:15:08] Processed: An Empirical Study of Proactive Coding Assistants in Real-World Software Development
+[2026-05-09 09:17:12] Processed: Eulerian Motion Guidance: Robust Image Animation via Bidirectional Geometric Consistency
