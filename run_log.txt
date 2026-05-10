@@ -92,3 +92,4 @@
 [2026-05-09 09:15:08] Processed: An Empirical Study of Proactive Coding Assistants in Real-World Software Development
 [2026-05-09 09:17:12] Processed: Eulerian Motion Guidance: Robust Image Animation via Bidirectional Geometric Consistency
 [2026-05-09 09:20:28] Processed: SwiftI2V: Efficient High-Resolution Image-to-Video Generation via Conditional Segment-wise Generation
+[2026-05-10 09:23:56] Processed: When No Benchmark Exists: Validating Comparative LLM Safety Scoring Without Ground-Truth Labels
