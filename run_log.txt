@@ -96,3 +96,4 @@
 [2026-05-10 09:32:21] Processed: Transformers Efficiently Perform In-Context Logistic Regression via Normalized Gradient Descent
 [2026-05-12 10:26:14] Processed: DECO: Sparse Mixture-of-Experts with Dense-Comparable Performance on End-Side Devices
 [2026-05-12 10:30:41] Processed: Optimal and Scalable MAPF via Multi-Marginal Optimal Transport and Schrödinger Bridges
+[2026-05-12 10:34:00] Processed: Prompt-Activation Duality: Improving Activation Steering via Attention-Level Interventions
