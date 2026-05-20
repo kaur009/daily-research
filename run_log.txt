@@ -105,3 +105,4 @@
 [2026-05-19 10:57:04] Processed: Triple-Hoisted Baby-Step Giant-Step Linear Transformation over CKKS Homomorphic Encryption and Hardware Accelerator
 [2026-05-19 10:59:32] Processed: Qumus: Realization of An Embodied AI Quantum Material Experimentalist
 [2026-05-20 10:44:27] Processed: Streamlined Constraint Reasoning via CNN Pattern Recognition on Enumerated Solutions
+[2026-05-20 10:53:37] Processed: Synergistic Foundation Models for Semi-Supervised Fetal Cardiac Ultrasound Analysis: SAM-Med2D Boundary Refinement and DINOv3 Semantic Enhancement
