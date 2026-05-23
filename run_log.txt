@@ -109,3 +109,4 @@
 [2026-05-20 11:01:01] Processed: Breaking Modality Heterogeneity in Low-Bit Quantization for Large Vision-Language Models
 [2026-05-20 11:09:51] Processed: KoRe: Compact Knowledge Representations for Large Language Models
 [2026-05-20 11:13:21] Processed: World-Ego Modeling for Long-Horizon Evolution in Hybrid Embodied Tasks
+[2026-05-23 09:45:19] Processed: Auditing Apple's DifferentialPrivacy.framework: Implementation Bugs, Misconfigurations, and Practical Risks
