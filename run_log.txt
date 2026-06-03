@@ -120,3 +120,4 @@
 [2026-06-01 13:33:01] Processed: Chem-PerturBridge: a harmonized compendium of small molecule perturbation transcriptomic effects
 [2026-06-02 11:59:01] Processed: Not All Errors Are Equal: A Systematic Study of Error Propagation in Large Language Model Inference
 [2026-06-03 12:36:52] Processed: Synthesize and Reward -- Reinforcement Learning for Multi-Step Tool Use in Live Environments
+[2026-06-03 12:39:46] Processed: AI Agents Enable Adaptive Computer Worms
