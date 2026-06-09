@@ -123,3 +123,4 @@
 [2026-06-03 12:39:46] Processed: AI Agents Enable Adaptive Computer Worms
 [2026-06-06 09:57:56] Processed: Where Do Large Language Models Fail on Competitive Programming? A Taxonomy of Failures by Algorithm Type and Difficulty Rating
 [2026-06-06 10:04:31] Processed: From Agent Traces to Trust: Evidence Tracing and Execution Provenance in LLM Agents
+[2026-06-09 10:55:00] Processed: Correlation Is Not Enough: Embedding Human Metadata for Individual Causal Discovery
