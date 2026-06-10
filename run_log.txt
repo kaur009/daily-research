@@ -125,3 +125,4 @@
 [2026-06-06 10:04:31] Processed: From Agent Traces to Trust: Evidence Tracing and Execution Provenance in LLM Agents
 [2026-06-09 10:55:00] Processed: Correlation Is Not Enough: Embedding Human Metadata for Individual Causal Discovery
 [2026-06-10 11:33:33] Processed: ConvMemory v2: A Recall-Preserving Top-10 Evidence Reranker for Conversational Memory Retrieval
+[2026-06-10 11:39:02] Processed: CLP: Collocation-Length Prediction for Zero-Loss Adaptive Multi-Token Inference
