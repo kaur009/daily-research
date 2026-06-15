@@ -128,3 +128,4 @@
 [2026-06-10 11:39:02] Processed: CLP: Collocation-Length Prediction for Zero-Loss Adaptive Multi-Token Inference
 [2026-06-12 11:38:48] Processed: ReFree: Towards Realistic Co-Speech Video Generation via Reward-Free RL and Multilevel Speech Guidance
 [2026-06-13 10:23:04] Processed: Mana: Dexterous Manipulation of Articulated Tools
+[2026-06-15 13:48:56] Processed: Detecting Functional Memorization in Code Language Models
