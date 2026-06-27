@@ -134,3 +134,4 @@
 [2026-06-23 10:56:55] Processed: Patient-Aware Contrastive Learning Preserves Per-Patient Structure in RR-Interval Representations
 [2026-06-25 10:36:59] Processed: Is GraphRAG Needed? From Basic RAG to Graph-/Agentic Solutions with Context Optimization
 [2026-06-27 09:58:21] Processed: Exact and Deterministic Patch Descriptor Retrieval via Hierarchical Normalization
+[2026-06-27 10:02:08] Processed: Jailbreaking for the Average Jane: Choosing Optimal Jailbreaks via Bandit Algorithms for Automatically Enhanced Queries
