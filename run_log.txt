@@ -139,3 +139,4 @@
 [2026-07-04 10:02:11] Processed: EAGLE-360: Embodied Active Global-to-Local Exploration in 360$^\circ$
 [2026-07-04 10:07:31] Processed: PhysMani: Physics-principled 3D World Model for Dynamic Object Manipulation
 [2026-07-04 10:10:17] Processed: Coding Agents Are Guessing: Measuring Action-Boundary Violations in Underspecified DevOps Instructions
+[2026-07-04 10:15:20] Processed: Safety Targeted Embedding Exploit via Refinement
