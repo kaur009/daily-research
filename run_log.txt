@@ -137,3 +137,4 @@
 [2026-06-27 10:02:08] Processed: Jailbreaking for the Average Jane: Choosing Optimal Jailbreaks via Bandit Algorithms for Automatically Enhanced Queries
 [2026-06-30 10:50:47] Processed: Goku: A Million-Scale Universal Dataset and Benchmark for Instruction-Based Video Editing
 [2026-07-04 10:02:11] Processed: EAGLE-360: Embodied Active Global-to-Local Exploration in 360$^\circ$
+[2026-07-04 10:07:31] Processed: PhysMani: Physics-principled 3D World Model for Dynamic Object Manipulation
