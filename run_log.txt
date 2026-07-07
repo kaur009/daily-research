@@ -141,3 +141,4 @@
 [2026-07-04 10:10:17] Processed: Coding Agents Are Guessing: Measuring Action-Boundary Violations in Underspecified DevOps Instructions
 [2026-07-04 10:15:20] Processed: Safety Targeted Embedding Exploit via Refinement
 [2026-07-07 10:49:06] Processed: Measuring Healthcare Data Leaks and Security Flaws at Internet Scale
+[2026-07-07 10:58:46] Processed: RUFNet: Query-Guided Support Mask Refinement and Uncertainty Fusion based on Hybrid Mamba for Few-Shot Brain Tumor Segmentation
