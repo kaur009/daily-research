@@ -147,3 +147,4 @@
 [2026-07-07 11:22:00] Processed: Selective Disclosure Watermarking for Large Language Models
 [2026-07-09 10:48:04] Processed: Finding and Understanding Miscompilation Bugs in the Solidity Compiler
 [2026-07-12 09:45:09] Processed: Track2Map: Online Deformable SLAM with Motion-Aware Pose Optimization in Robotic Surgery
+[2026-07-15 09:54:40] Processed: Weakly Supervised Spatio-Temporal Candidate Discovery of Dairy Farm Sites from Seasonal Satellite Imagery
