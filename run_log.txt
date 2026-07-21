@@ -156,3 +156,4 @@
 [2026-07-21 10:19:05] Processed: Where Does Agent Reliability Come From? A Cross-Benchmark Decomposition of Verification Loops, Specialist Models, and Scaffolding in a Production Enterprise Agent
 [2026-07-21 10:21:37] Processed: ClouDens: Operational Context-Aware Anomaly Detection for Large-scale Cloud System Monitoring
 [2026-07-21 10:25:21] Processed: Judge-dependent safety gains and model-specific helpfulness costs of evidence-sufficiency prompting in clinical LLMs
+[2026-07-21 10:31:13] Processed: Configuration-Induced Passive Self-Rotation for Perception-Enhanced Autonomous Flight
