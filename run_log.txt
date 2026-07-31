@@ -158,3 +158,4 @@
 [2026-07-21 10:25:21] Processed: Judge-dependent safety gains and model-specific helpfulness costs of evidence-sufficiency prompting in clinical LLMs
 [2026-07-21 10:31:13] Processed: Configuration-Induced Passive Self-Rotation for Perception-Enhanced Autonomous Flight
 [2026-07-21 10:36:27] Processed: Can We Break LLMs Out of Self-Loops? Fine-Grained Reasoning Control with Activation Steering
+[2026-07-31 10:30:59] Processed: MonoVoc: Decoupling Geometry and Semantics for Lightweight Monocular Open-Vocabulary 3D Gaussians
