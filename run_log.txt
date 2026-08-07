@@ -160,3 +160,4 @@
 [2026-07-21 10:36:27] Processed: Can We Break LLMs Out of Self-Loops? Fine-Grained Reasoning Control with Activation Steering
 [2026-07-31 10:30:59] Processed: MonoVoc: Decoupling Geometry and Semantics for Lightweight Monocular Open-Vocabulary 3D Gaussians
 [2026-08-02 09:50:13] Processed: Tycho: Active Abstraction with Programmatic World Models for ARC-AGI-3
+[2026-08-07 08:49:45] Processed: FinEvo-Bench: A Longitudinal Benchmark for Self-Evolving Agents in Professional Financial Workflows
