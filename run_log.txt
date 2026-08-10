@@ -161,3 +161,4 @@
 [2026-07-31 10:30:59] Processed: MonoVoc: Decoupling Geometry and Semantics for Lightweight Monocular Open-Vocabulary 3D Gaussians
 [2026-08-02 09:50:13] Processed: Tycho: Active Abstraction with Programmatic World Models for ARC-AGI-3
 [2026-08-07 08:49:45] Processed: FinEvo-Bench: A Longitudinal Benchmark for Self-Evolving Agents in Professional Financial Workflows
+[2026-08-10 09:10:50] Processed: CreativeInstruct: Scalably Teaching LLMs to Balance Quality, Creativity, and Diversity
