@@ -162,3 +162,4 @@
 [2026-08-02 09:50:13] Processed: Tycho: Active Abstraction with Programmatic World Models for ARC-AGI-3
 [2026-08-07 08:49:45] Processed: FinEvo-Bench: A Longitudinal Benchmark for Self-Evolving Agents in Professional Financial Workflows
 [2026-08-10 09:10:50] Processed: CreativeInstruct: Scalably Teaching LLMs to Balance Quality, Creativity, and Diversity
+[2026-08-13 09:04:54] Processed: LazyTrain: Limited-resource Allocation toward Zero-waste Yield Optimization in Large Language Model Training
