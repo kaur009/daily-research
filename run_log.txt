@@ -167,3 +167,4 @@
 [2026-08-17 08:34:35] Processed: hint$^2$: Hierarchical World Models for Inference-Time Temporal Logic Guidance
 [2026-08-18 08:27:09] Processed: Bridging the Gap between Labeled and Unlabeled Data via Unified Flow with Feature Memory Bank
 [2026-08-18 08:33:19] Processed: Beyond Single-Vulnerability Evaluation: Closing the Engineering Decision Gap Between C Retrofits and Native Safety
+[2026-08-23 08:20:53] Processed: 4DAnyone: Create Anyone in 4D from a Casual Monocular Video
