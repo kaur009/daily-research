@@ -171,3 +171,4 @@
 [2026-08-26 08:34:39] Processed: LION: A Clifford Neural Paradigm for Multimodal-Attributed Graph Learning
 [2026-08-27 18:42:40] Processed: TacForcing: Streaming Action Generation with Execution-Time Tactile Feedback
 [2026-08-27 18:52:04] Processed: Advantage-Driven Explicit Memory for Social Navigation
+[2026-08-27 19:01:33] Processed: Steer the Sampling, Not the Kernel Grid: Geometry-Guided Sampling Operator for Volumetric Segmentation
