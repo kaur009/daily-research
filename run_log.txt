@@ -169,3 +169,4 @@
 [2026-08-18 08:33:19] Processed: Beyond Single-Vulnerability Evaluation: Closing the Engineering Decision Gap Between C Retrofits and Native Safety
 [2026-08-23 08:20:53] Processed: 4DAnyone: Create Anyone in 4D from a Casual Monocular Video
 [2026-08-26 08:34:39] Processed: LION: A Clifford Neural Paradigm for Multimodal-Attributed Graph Learning
+[2026-08-27 18:42:40] Processed: TacForcing: Streaming Action Generation with Execution-Time Tactile Feedback
