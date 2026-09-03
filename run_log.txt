@@ -174,3 +174,4 @@
 [2026-08-27 19:01:33] Processed: Steer the Sampling, Not the Kernel Grid: Geometry-Guided Sampling Operator for Volumetric Segmentation
 [2026-08-29 13:31:06] Processed: Squeezing More from Limited Data with Recursive Transformers
 [2026-08-30 13:27:13] Processed: BTS-AgentBench: A Deterministic, Replayable Pipeline from Read-Only Telemetry Logs to Agent Benchmarks
+[2026-09-03 12:26:37] Processed: On the Prospects of Dynamic LLM Conversations in Software Development
