@@ -175,3 +175,4 @@
 [2026-08-29 13:31:06] Processed: Squeezing More from Limited Data with Recursive Transformers
 [2026-08-30 13:27:13] Processed: BTS-AgentBench: A Deterministic, Replayable Pipeline from Read-Only Telemetry Logs to Agent Benchmarks
 [2026-09-03 12:26:37] Processed: On the Prospects of Dynamic LLM Conversations in Software Development
+[2026-09-05 11:31:09] Processed: Constant regret in general games via higher-order optimism
