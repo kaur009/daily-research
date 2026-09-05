@@ -176,3 +176,4 @@
 [2026-08-30 13:27:13] Processed: BTS-AgentBench: A Deterministic, Replayable Pipeline from Read-Only Telemetry Logs to Agent Benchmarks
 [2026-09-03 12:26:37] Processed: On the Prospects of Dynamic LLM Conversations in Software Development
 [2026-09-05 11:31:09] Processed: Constant regret in general games via higher-order optimism
+[2026-09-05 11:40:32] Processed: ARTiS: An Adaptive Robotic Gripper for Enhanced Tool Manipulation in Disassembly Applications
