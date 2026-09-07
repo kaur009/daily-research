@@ -179,3 +179,4 @@
 [2026-09-05 11:40:32] Processed: ARTiS: An Adaptive Robotic Gripper for Enhanced Tool Manipulation in Disassembly Applications
 [2026-09-05 11:44:38] Processed: Air-Ground Collaborative Vision-and-Language Navigation via Shared Bird's-Eye Maps
 [2026-09-07 13:51:16] Processed: Virtual Testing of Automated Driving Systems through Credible Simulations
+[2026-09-07 13:56:01] Processed: Single-Query Black-Box Calibration Auditing via Logit Bias
