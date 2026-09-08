@@ -181,3 +181,4 @@
 [2026-09-07 13:51:16] Processed: Virtual Testing of Automated Driving Systems through Credible Simulations
 [2026-09-07 13:56:01] Processed: Single-Query Black-Box Calibration Auditing via Logit Bias
 [2026-09-07 14:04:35] Processed: Towards Neuro-Symbolic Procedural Reasoning for Long-Horizon Vision-Language-Action Manipulation
+[2026-09-08 12:29:21] Processed: Adaptation Needs in Robotic Systems: Assessing Behavior Trees and Their Enhancement
