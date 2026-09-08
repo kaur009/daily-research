@@ -183,3 +183,4 @@
 [2026-09-07 14:04:35] Processed: Towards Neuro-Symbolic Procedural Reasoning for Long-Horizon Vision-Language-Action Manipulation
 [2026-09-08 12:29:21] Processed: Adaptation Needs in Robotic Systems: Assessing Behavior Trees and Their Enhancement
 [2026-09-08 12:37:59] Processed: One Word, Different Action: A Real-Robot Benchmark for Language-Conditioned Embodied Reasoning
+[2026-09-08 12:42:43] Processed: RegionFed: Federated Learning for Personalized Query Understanding in Heterogeneous Retail Environments
