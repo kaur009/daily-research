@@ -187,3 +187,4 @@
 [2026-09-08 12:47:28] Processed: CONTINUITY: Security-Context Contracts for Composable LLM Agent Controls
 [2026-09-11 12:28:58] Processed: Contact-Aware Incremental Model Predictive Control for an Underactuated Aerial Manipulator
 [2026-09-11 12:35:01] Processed: ActMap: Single-Pass Uncertainty Quantification from Generation-Time Activation Maps
+[2026-09-11 12:42:46] Processed: Towards Scalable and Cost-Efficient Vulnerability Detection: A Study on Automatic Query Generation
