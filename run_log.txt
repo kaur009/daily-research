@@ -195,3 +195,4 @@
 [2026-09-24 13:04:22] Processed: Exact Quantile Balancing and Load-Error Injection for Mixture-of-Experts
 [2026-09-24 13:11:59] Processed: SlackDrive: Reclaiming Runtime Slack for Adaptive Driving Inference
 [2026-09-24 13:18:13] Processed: Quantum score matching with applications to learning thermal states
+[2026-09-24 13:21:40] Processed: Distillation for Efficient Multitask Manipulation Policies via Conditional Flow Matching
