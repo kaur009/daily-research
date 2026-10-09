@@ -200,3 +200,4 @@
 [2026-09-27 13:27:12] Processed: Requirement-Bound Verified Commissioning: A Frozen Four-Billion-Parameter Local Model as a Candidate Generator under an External Acceptance Layer with Verification and Release Authority
 [2026-09-30 14:29:09] Processed: Dr. OPD: Learning What to Follow for Optimal On-Policy Distillation of Large Language Models
 [2026-10-09 14:51:37] Processed: Event-Centric Memory with Query-Aware Graph Augmentation for Long-Term Conversational Agents
+[2026-10-09 14:54:57] Processed: MORDOR:Mitigating Overheads of Read Disturbance Preventive Operations via Elastic Refresh Scheduling
