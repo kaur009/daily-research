@@ -211,3 +211,4 @@
 [2026-10-19 15:16:57] Processed: WEAVE: Weaving Real-World Code Evolution into Dependency-Structured Tasks for Benchmarking and Training Code Agents
 [2026-10-19 15:25:31] Processed: GR-VIP: Geometric representation conditioning for precise visuomotor policy
 [2026-10-19 15:34:09] Processed: Optimist Deep Research: An Iterative, State-Centric Agent for Autonomous Literature Research
+[2026-10-19 15:37:45] Processed: Capital Costs Protect the Network: Mining Gap Dynamics in Proof-of-Work Blockchains Under a Stochastic Mempool
