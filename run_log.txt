@@ -215,3 +215,4 @@
 [2026-10-21 13:20:47] Processed: When Copying Is Hard: Copy-Constrained Decoding for Exact Span Reproduction
 [2026-10-24 12:22:49] Processed: Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success
 [2026-10-25 12:53:07] Processed: Diffusion Language Models for Perplexity-Aware Black-Box Attacks
+[2026-10-25 12:58:00] Processed: How Ground Truth Shapes Retrieval Scores: Evidence-Aware Evaluation of a Retrieval-Augmented Generation System for Breast Lesions
