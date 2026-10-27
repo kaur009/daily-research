@@ -219,3 +219,4 @@
 [2026-10-27 13:50:42] Processed: VidEdit3D: Flexible 3D Gaussian Editing with Video Diffusion
 [2026-10-27 13:56:18] Processed: Securing Agent-Generated Code with Its Own Development History
 [2026-10-27 14:05:21] Processed: Explainable Multimodal AI Approach to Reduce Unnecessary Breast Biopsies
+[2026-10-27 14:13:28] Processed: CyberDual: AI Attackers versus AI Code Reviewers in Real Software Maintenance
