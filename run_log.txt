@@ -220,3 +220,4 @@
 [2026-10-27 13:56:18] Processed: Securing Agent-Generated Code with Its Own Development History
 [2026-10-27 14:05:21] Processed: Explainable Multimodal AI Approach to Reduce Unnecessary Breast Biopsies
 [2026-10-27 14:13:28] Processed: CyberDual: AI Attackers versus AI Code Reviewers in Real Software Maintenance
+[2026-10-28 14:45:30] Processed: WCC: A Learning-Based Framework for Deciding When to Apply Cooperative Coevolution in Large-Scale Optimization
