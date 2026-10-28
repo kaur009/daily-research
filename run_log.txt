@@ -223,3 +223,4 @@
 [2026-10-28 14:45:30] Processed: WCC: A Learning-Based Framework for Deciding When to Apply Cooperative Coevolution in Large-Scale Optimization
 [2026-10-28 14:53:24] Processed: Ranking Function Generation with LLMs for Termination
 [2026-10-28 14:57:52] Processed: When uncertainty quantification fails: structural vulnerabilities and corrections for selective prediction under clinical class imbalance
+[2026-10-28 15:02:04] Processed: Haste Makes Waste? Towards Safe Few-Step Text-to-Image Models
