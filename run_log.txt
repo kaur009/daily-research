@@ -225,3 +225,4 @@
 [2026-10-28 14:57:52] Processed: When uncertainty quantification fails: structural vulnerabilities and corrections for selective prediction under clinical class imbalance
 [2026-10-28 15:02:04] Processed: Haste Makes Waste? Towards Safe Few-Step Text-to-Image Models
 [2026-10-28 15:05:22] Processed: GAWM: A Compact Latent World-Action Model for Multi-Task Robot Manipulation
+[2026-11-02 17:39:20] Processed: When Requirements Interact: Scaling Long-Horizon Coding via Interdependent Specifications
