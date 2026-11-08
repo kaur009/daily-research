@@ -228,3 +228,4 @@
 [2026-11-02 17:39:20] Processed: When Requirements Interact: Scaling Long-Horizon Coding via Interdependent Specifications
 [2026-11-04 15:53:41] Processed: Do Ray-Traced Cities Make a Better Channel Prior for an Unseen Site? A Pre-Registered Study in Simulation, and a Test on Measured Channels that Reverses It
 [2026-11-08 14:40:55] Processed: Take It From Here: Evaluating Coding Agents On Project Takeover
+[2026-11-08 14:43:21] Processed: Cloudy Skies: Early Detection of Jamming Against Iridium LEO Satellite-IoT Links
