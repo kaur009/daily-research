@@ -230,3 +230,4 @@
 [2026-11-08 14:40:55] Processed: Take It From Here: Evaluating Coding Agents On Project Takeover
 [2026-11-08 14:43:21] Processed: Cloudy Skies: Early Detection of Jamming Against Iridium LEO Satellite-IoT Links
 [2026-11-08 14:49:07] Processed: NPCBench: A Clinical Apprenticeship Benchmark for Multimodal Care-Pathway Reasoning in Nasopharyngeal Carcinoma
+[2026-11-08 14:55:09] Processed: BabyTheorist: A Benchmark for Learning to Theorize the World from Observation Alone
