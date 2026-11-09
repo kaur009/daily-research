@@ -233,3 +233,4 @@
 [2026-11-08 14:55:09] Processed: BabyTheorist: A Benchmark for Learning to Theorize the World from Observation Alone
 [2026-11-09 18:05:30] Processed: Compaction, decay and reinforcement in a two-tier conversational memory: a paired evaluation against retrieval-augmented generation
 [2026-11-09 18:09:15] Processed: Knowing When to Intervene: Causal Evaluation of AI Agents
+[2026-11-09 18:15:53] Processed: Scaling Graph Similarity Learning with Graph Neural Networks
