@@ -235,3 +235,4 @@
 [2026-11-09 18:09:15] Processed: Knowing When to Intervene: Causal Evaluation of AI Agents
 [2026-11-09 18:15:53] Processed: Scaling Graph Similarity Learning with Graph Neural Networks
 [2026-11-09 18:21:16] Processed: Multiscale Closing Index (MCI) for measuring structural similarity between 2D point sets
+[2026-11-09 18:29:57] Processed: FusionCLIP: Multimodal Contrastive Pretraining for Fusion Plasma Diagnostics
