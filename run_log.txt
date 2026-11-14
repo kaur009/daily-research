@@ -236,3 +236,4 @@
 [2026-11-09 18:15:53] Processed: Scaling Graph Similarity Learning with Graph Neural Networks
 [2026-11-09 18:21:16] Processed: Multiscale Closing Index (MCI) for measuring structural similarity between 2D point sets
 [2026-11-09 18:29:57] Processed: FusionCLIP: Multimodal Contrastive Pretraining for Fusion Plasma Diagnostics
+[2026-11-14 14:40:57] Processed: Disentangling Spurious Correlations: How IRM Handles Diverse Shortcuts in Text Classification
