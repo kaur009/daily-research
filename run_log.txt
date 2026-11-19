@@ -240,3 +240,4 @@
 [2026-11-17 17:16:10] Processed: Premise Recovery in Software Design: What Does This Decision Rest On?
 [2026-11-18 16:51:44] Processed: When Tool Names Are Not Identities: Measuring Provider Misbinding in MCP-Based AI Agents
 [2026-11-19 16:58:34] Processed: UltraTex: Aligning Physical Knowledge for High-Fidelity PBR Texture Generation
+[2026-11-19 17:07:17] Processed: Reliability is a user-specific property of large language models
