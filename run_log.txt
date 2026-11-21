@@ -242,3 +242,4 @@
 [2026-11-19 16:58:34] Processed: UltraTex: Aligning Physical Knowledge for High-Fidelity PBR Texture Generation
 [2026-11-19 17:07:17] Processed: Reliability is a user-specific property of large language models
 [2026-11-19 17:13:26] Processed: Protecting Web Applications using a Multimodal AI-based System for Classifying Web Injection Attacks
+[2026-11-21 15:50:41] Processed: Beam Model Technical Report
