@@ -244,3 +244,4 @@
 [2026-11-19 17:13:26] Processed: Protecting Web Applications using a Multimodal AI-based System for Classifying Web Injection Attacks
 [2026-11-21 15:50:41] Processed: Beam Model Technical Report
 [2026-11-23 19:42:50] Processed: Ego4Gen: Generating Geometry-Grounded Motion Tokens as a World-Action Interface
+[2026-11-23 19:48:09] Processed: SMSD: A Semantic Misinformation Spreader Detection Approach
