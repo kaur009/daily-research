@@ -246,3 +246,4 @@
 [2026-11-23 19:42:50] Processed: Ego4Gen: Generating Geometry-Grounded Motion Tokens as a World-Action Interface
 [2026-11-23 19:48:09] Processed: SMSD: A Semantic Misinformation Spreader Detection Approach
 [2026-11-23 19:51:16] Processed: Sketch2TikZ: Multi-Reward Reinforcement Learning for Converting Hand-Drawn Sketches to Executable TikZ
+[2026-11-23 19:58:11] Processed: When Are Images Needed in Multimodal Machine Translation? Text-Only Routing for On-Demand Visual Context
