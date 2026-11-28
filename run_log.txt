@@ -251,3 +251,4 @@
 [2026-11-26 18:08:44] Processed: Reading Fine-Tuning Diffs Through Lenses: Model Diffing for Backdoor Detection
 [2026-11-26 18:16:39] Processed: High-Fidelity Image Matting with Pixel-Space Diffusion Transformers
 [2026-11-26 18:19:58] Processed: Node Differential Privacy via Node-Stable Graph Projections
+[2026-11-28 16:31:25] Processed: PORTA: Systematic Discovery of Vulnerabilities in Identity Brokers
